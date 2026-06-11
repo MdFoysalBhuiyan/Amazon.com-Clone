@@ -62,7 +62,9 @@ git clone https://github.com/your-username/amazon-clone.git
 Add your project screenshot here:
 
 ```md
-![Amazon Clone Preview](./media/home-ss.png)
+## 📸 Preview
+
+![Amazon Clone Preview](media/home-ss.png)
 ```
 
 ---
