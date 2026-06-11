@@ -207,6 +207,33 @@ span {
     margin-bottom: 1rem;
 }
 
+#frypan-img {
+    background-image: url(/Amazon.com-Clone/media/bu.jpg);
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#cute-img {
+    background-image: url(/Amazon.com-Clone/media/cute.jpg);
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#chair-img {
+    background-image: url(/Amazon.com-Clone/media/chair.jpg);
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
 .box-content {
     margin-left: 10px;
     margin-right: 10px;
