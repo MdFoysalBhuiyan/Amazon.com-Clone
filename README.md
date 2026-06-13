@@ -64,7 +64,7 @@ Add your project screenshot here:
 ```md
 ## 📸 Preview
 
-![Amazon Clone Preview](media/home-ss.png)
+![image alt](https://github.com/MdFoysalBhuiyan/Amazon.com-Clone/blob/dd16741eb2e1d35c9a5860fb99fcf0de0853aac1/media/home-ss.png)
 ```
 
 ---
