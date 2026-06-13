@@ -2,6 +2,16 @@
 
 A responsive **Amazon Homepage Clone** built using **HTML5** and **CSS3**. This project replicates the basic layout and design of the Amazon website to practice frontend web development concepts.
 
+## 📸 Preview
+
+```md
+## 📸 Preview
+```
+![Preview](./media/home-ss.png)
+![Preview](./media/bss.png)
+
+---
+
 ## 📌 Project Overview
 
 This project is a front-end clone of the Amazon homepage. The main goal of this project was to improve skills in **HTML structure**, **CSS styling**, **Flexbox**, and **responsive webpage design**.
@@ -40,15 +50,6 @@ Amazon-Clone/
 │   └── other-assets
 │── README.md
 ```
-
----
-## 📸 Preview
-
-```md
-## 📸 Preview
-```
-![Preview](./media/home-ss.png)
-![Preview](./media/bss.png)
 
 ---
 
