@@ -64,7 +64,7 @@ Add your project screenshot here:
 ```md
 ## 📸 Preview
 
-![Amazon Clone Preview](./media/home-ss.png)
+![Amazon Clone Preview](media/home-ss.png)
 ```
 
 ---
