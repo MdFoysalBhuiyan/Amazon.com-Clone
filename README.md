@@ -67,6 +67,7 @@ Add your project screenshot here:
 ![Amazon Clone Preview](./media/home-ss.png)
 ```
 ![Preview](./media/home-ss.png)
+![Preview](./media/bss.png)
 
 ---
 
