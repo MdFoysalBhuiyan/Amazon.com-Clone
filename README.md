@@ -42,29 +42,12 @@ Amazon-Clone/
 ```
 
 ---
-
-## 🚀 How to Run the Project
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/your-username/amazon-clone.git
-```
-
-2. Open the project folder.
-
-3. Run `index.html` in your browser.
-
----
-
 ## 📸 Preview
-
-Add your project screenshot here:
 
 ```md
 ## 📸 Preview
 
-![image alt](media/home-ss.png)
+<img src="media/home-ss.png" alt="Amazon Home Screenshot" width="100%">
 
 ```
 
