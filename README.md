@@ -47,7 +47,8 @@ Amazon-Clone/
 ```md
 ## 📸 Preview
 
-<img src="media/home-ss.png" alt="Amazon Home Screenshot" width="100%">
+<img src="../media/home-ss.png" alt="Amazon Home Screenshot" width="100%">
+
 
 ```
 
