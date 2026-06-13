@@ -48,6 +48,7 @@ Amazon-Clone/
 ## 📸 Preview
 ```
 ![Preview](./media/home-ss.png)
+![Preview](./media/bss.png)
 
 ---
 
