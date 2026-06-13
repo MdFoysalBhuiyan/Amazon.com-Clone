@@ -48,8 +48,7 @@ Amazon-Clone/
 ## 📸 Preview
 
 <img src="../media/home-ss.png" alt="Amazon Home Screenshot" width="100%">
-
-
+![Preview](./media/home-ss.png)
 ```
 
 ---
